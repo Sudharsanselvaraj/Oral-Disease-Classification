@@ -1,4 +1,4 @@
-#Oral Disease Classification
+# Oral Disease Classification
 Objective
 The project aims to classify oral diseases present in single images, focusing on ensuring high accuracy across diverse image qualities and demographics. The diseases targeted include Healthy, Caries, and Gingivitis.
 
